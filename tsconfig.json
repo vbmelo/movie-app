@@ -1,0 +1,8 @@
+{
+	"compilerOptions": {},
+	"extends": "expo/tsconfig.base",
+	"include": [
+		"**/*",
+		"./src/screens/Home/Home.Styles.ts" // Add the path to the Styles.ts file
+	]
+}
